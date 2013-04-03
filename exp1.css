@@ -1,0 +1,69 @@
+body {
+    font-family: Helvetica, Sans, Arial;
+    width: 100%;
+    margin:0px;padding:0px;
+	background-color:#F5F5F0;      
+}
+
+#search{
+width:300px;
+height:20px;
+}
+
+#submit{
+width:200px;
+height:30px;
+}
+
+#form1{
+    padding:20px;
+    text-align:center;
+    margin:auto;
+    background-color:#151B54;
+
+}
+.new_tweets{    
+    border:1px solid #98AFC7;
+    background-color:#F5F5F5;  
+	height: 90px;
+	width: 1000px;    
+}
+
+#tweets{	
+    position: absolute;
+    left: 35%;
+    top: 50%;
+    z-index: 100;
+    height: 500px;
+    margin-top: -200px;
+    width: 800px;
+    margin-left: -300px;
+ }
+ 
+img {
+position:relative;
+float:left;
+}
+
+#rpp{
+width:50px;
+height:20px;
+}
+
+#page_top {
+    position: fixed;
+    bottom: 10px;
+    right: 40px;
+    line-height: 30px;
+    height: 30px;
+    color: #F5F5F5;
+    background: #151B54;
+}
+
+
+
+
+
+
+
+
